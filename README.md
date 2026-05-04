@@ -1,8 +1,8 @@
 ## Hey there 👋
-##🔭 I’m currently working on mini projects(python)
+##🔭 I’m currently working on ros 
 - 🌱 I’m currently learning machine learning
 - 💬 Ask me about python,c,java
-- 📖 I want to do masters in Nanotechnology
+- 📖 Ms in Robotics
 - 😄 Pronouns: she/her
 - 📫 How to reach me: www.linkedin.com/in/manasa-guduru-29-apr2004
 - ⚡ Fun fact: I love reading books
