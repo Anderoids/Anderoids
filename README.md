@@ -59,7 +59,7 @@ ROS 2 • Robot Localization • Sensor Fusion • Kinematics • Control
 Machine Learning • Computer Vision • Deep Learning • scikit-learn
 
 **Tools**  
-Git • GitHub • Linux • MATLAB • SolidWorks • NumPy • Pandas • Matplotlib
+Git • GitHub • Linux • MATLAB • SolidWorks • NumPy • Pandas
 
 ---
 
