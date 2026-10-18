@@ -1,33 +1,43 @@
-# Hey there, I'm Manasa 👋
+# Hi, I'm Manasa 👋
 
-🤖 **M.S. Robotics @ Northeastern University**
+🎓 MS Robotics student at Northeastern University  
+🤖 Interested in Assistive Robotics, Biomedical Robotics & Robot Localization  
+🧠 Background in AI/ML  
+🔧 Currently learning ROS 2, robot sensing, navigation and control
 
-I like teaching machines to perceive, reason, and hopefully not bump into things.
+## What I'm working on
 
-- 🔭 Currently working with **ROS 2, robotic sensing & navigation**
-- 🌱 Currently learning **C++, robot mechanics & control, sensor fusion, and a whole lot of robotics**
-- 🧠 Background in **AI, Machine Learning & Computer Vision**
-- 🔬 Published research in **Quantum Machine Learning**
-- 🐍 Ask me about **Python, ML, or why my ROS node isn't talking to the other ROS node**
-- 🚧 Still learning — always.
-- 🤝 Open to collaborating on **Robotics, AI/ML, Computer Vision & autonomous systems**
-- 📚 Fun fact: I love reading books and getting unnecessarily invested in fictional worlds
-- 🎮 Also very into games, especially Pokémon
-- 😄 Pronouns: **she/her**
-- 📍 Boston, MA
+- 🤖 Robot sensing and localization
+- 🦿 Assistive robotics and human movement
+- 📍 GPS, IMU and sensor fusion
+- 🐍 Python & ROS 2
+- ⚙️ Building stronger hands-on robotics skills
 
-### 🛠️ Currently Playing With
+## Featured Project
 
-`ROS 2` · `Python` · `C++` · `PyTorch` · `OpenCV` · `Git` · `Linux`
+### 🤖 Robot Sensor Localization
 
-### 🔬 Things I Like Building
+Built a Python-based localization project exploring:
 
-Robotics 🤖 · Perception 👁️ · Machine Learning 🧠 · Computer Vision 📷 · Sensor Fusion 🛰️
+- GPS and IMU simulation
+- Dead reckoning and drift
+- Kalman filtering
+- Sensor fusion
+- 2D robot localization
+- Machine-learning-based position estimation
 
-### 📫 Find me
+Final experiments compared GPS, dead reckoning, static fusion,
+Linear Regression and Random Forest using position RMSE.
 
-💼 LinkedIn: www.linkedin.com/in/mnsguduru29
+## Tech
+
+Python • ROS 2 • NumPy • Pandas • Matplotlib • scikit-learn • Git
+
+## Currently Learning
+
+Robot Mechanics • Sensing & Navigation • ROS 2 • C++
 
 ---
 
-> building → breaking → debugging → learning → repeat 🔁
+I'm especially interested in robotics that can improve mobility and
+assist people in the real world.
